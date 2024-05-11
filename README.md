@@ -12,3 +12,5 @@ It will scan the servers to find the vulnerable scripts, configuration errors, i
     
 ## FUNKTARE action
 Being a sophisticated worm like fungi, these malware types replicate themselves to spread.
+
+#### ***Note: Educational purposes only, I'm not responsible for any damages that ~funktare~ caused.***
